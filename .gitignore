@@ -1,0 +1,19 @@
+# Personal data referenced by commands/agents in this repo —
+# these contain real CV/profile/company/job-search info and must
+# never be committed to a public repo.
+.github/instructions/resources/
+.claude/commands/resources/
+jobs/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
