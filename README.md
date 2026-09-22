@@ -18,8 +18,6 @@ general-purpose dev-workflow helpers.
 
 ## Commands
 
-- **/generate-cover-letter** — generates a DIN A4 German cover letter
-  tailored to a pasted job description.
 - **/search-jobs** — searches for relevant German job postings and scores
   them against the candidate profile.
 - **/search-jobs-orchester** — thorough variant of `/search-jobs` that
